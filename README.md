@@ -20,13 +20,9 @@ This project involves the analysis of pizza sales data, uncovering key insights 
 
 The project consists of data analysis conducted using SQL queries, with key findings focused on customer behavior, product performance, and operational optimization. Insights gathered help improve decision-making in inventory management, marketing strategy, and overall profitability.
 
-### Technologies Used
-- SQL for data extraction and analysis
-- Python (Pandas, Matplotlib) for further data processing and visualization (if applicable)
-  
 ## How to Use
-1. Clone the repository to your local machine.
-2. Run the SQL queries on your sales database to replicate the analysis.
+1. Download CSV files that I have attached. 
+2. Download and Run the SQL script in your system. 
 3. Explore the findings and apply the insights to your pizza sales strategy.
 
 ## Conclusion
